@@ -1,4 +1,4 @@
-# FS-App-Template
+# Project Tracker
 
 ## Setup
 
